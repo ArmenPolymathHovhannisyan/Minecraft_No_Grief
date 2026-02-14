@@ -1,4 +1,4 @@
-package NoGrief;
+package nogrief;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
